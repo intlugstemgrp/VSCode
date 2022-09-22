@@ -1,0 +1,11 @@
+---
+layout: posts
+title: Leo Chow
+katex: False
+comments: True
+sidebar:
+ nav: "Contributors"
+permalink: /Contributors/LeoChow/
+---
+
+Leo participated in this website by writing a very insightful physics article, with some really artistic illustration. Thank you very much for his contribution!

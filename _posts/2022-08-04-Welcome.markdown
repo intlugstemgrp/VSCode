@@ -1,0 +1,16 @@
+---
+layout: single
+katex: True
+title: Sad Story
+header:
+  teaser: /assets/images/Wolf.png
+---
+Hello I still don't know if I get in Orchestra ah, life is so sad :(
+:( :/
+Ahh 10pm already! Still don't call me, can't get in...
+Oh no tomorrow dynamics class! Can't watch Ducks while eating bread!
+
+
+Quack!
+Quack!
+Quack!

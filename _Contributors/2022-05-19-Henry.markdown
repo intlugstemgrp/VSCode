@@ -1,0 +1,15 @@
+---
+layout: posts
+title: Henry Yip
+katex: False
+comments: True
+categories: Henry
+sidebar:
+ nav: "Contributors"
+permalink: /Contributors/HenryYip/
+---
+## Education 
+
+Yo I am using $$\frac{2x^2+1}{3x^2+3}$$
+
+I like ducks
