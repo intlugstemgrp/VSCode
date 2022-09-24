@@ -1,0 +1,22 @@
+---
+layout: posts
+title: Esther Cheung
+katex: False
+comments: True
+categories: Esther
+sidebar:
+ nav: "Contributors"
+permalink: /Contributors/EstherCheung/
+---
+## Role(s)
+Organizer
+Life Sciences Coordinator
+Regional Organizer: Europe, Africa, and the Middle East
+
+## Introduction
+Hi everyone! I am Esther Cheung, a second year Biochemistry MSci student at Univeristy College London. I grew up in Hong Kong and am currently based in London. As an aspiring stem cell biologist, I am interested in the correlation between tumorigenesis, regeneration, and longevity, as well as the genetic and epigenetic switches involved in these processes. Academic interests aside, I am a hobbyist violist, violinist, and sci-fi writer. I'm also interested in pretty much any genres of music.
+
+## Photo
+
+## By the way...
+I am currently the Head of Journal Club at University College London's Genetic Society. If anyone would like present their research during one of our virtual or in-person sessions or would like to collaborate with us feel free to contact me via ouroborosaegian@gmail.com.

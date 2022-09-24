@@ -8,10 +8,18 @@ sidebar:
  nav: "Contributors"
 permalink: /Contributors/HenryYip/
 ---
-## Education 
+## Role(s) 
 
-Yo I am using $$\frac{2x^2+1}{3x^2+3}$$
+Organizer
+Physical Sciences Coordinator 
+Regional Organizer: Asia and Oceania 
+Website Maintenance
 
-### Ducks
-An important part of my education is studying ducks, because when I see ducks, I think of cows.
-Ducks are very cute.
+## Introduction
+
+Hi I am Henry, a Mathematical Physics Year 1 student at the University of Edinburgh from Hong Kong. I am intrigued by Quantum Physics, Nuclear Physics, Cosmology, and physics in general. Academics aside, my hobbies include meteorology, chess, ducks, long-distance running, classical music, website building, wandering in Parks, and pretty much everything except dancing.
+
+## Photo
+
+## By the Way...
+You can join my more casual side-project, co-led by me and my friend Leo Chow, where we discuss and explore all things human and beyond at https://henry-yip.github.io
