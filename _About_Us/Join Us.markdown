@@ -13,8 +13,11 @@ We are actively recruiting new STEM undergraduate members from all around the wo
 ### Why should you become a member?
 
 Networking opportunities
+
 Learn invaluable soft skills such as event organization, science communication, promotion, various IT skills, etc
+
 Share your passion
+
 Featured on our website
 
 ### Responsibilities of a member

@@ -1,9 +1,13 @@
 # main links
 main:
+  - title: "About Us"
+    url: /About_Us/
   - title: "Contributors"  
     url: /Contributors/  
   - title: "Existential Risks"  
     url: /Existential_Risks/
+  - title: "Posts"
+    url: /Posts/
 
 
 Existential_Risks:
@@ -33,9 +37,32 @@ Contributors:
       - title: "Grace Yang"
         url: /Contributors/GraceYang/ 
       - title: "Michael So"
-        url: /Contributors/MichaelSo/   
+        url: /Contributors/MichaelSo/
+      - title: "Aya Watanabe"
+        url: /Contributors/AyaWatanabe/
+      - title: "Ichika Aradono"
+        url: /Contributors/IchikaAradono/
+      - title: "Esther Cheung"
+        url: /Contributors/EstherCheung/
+      - title: "Allison Lau"
+        url: /Contributors/AllisonLau/
 
-      
+
+
+About_Us:
+  - title: About Us
+    children:
+      - title: "About Us"
+        url: /About_Us/Introduction/
+      - title: "Activities"
+        url: /About_Us/Activities/
+      - title: "Join Us!"
+        url: /About_Us/Join Us/
+      - title: "Resources for New Members"
+        url: /About_Us/Resources for New Members/
+
+
+
 
 Music:
   - title: Music
