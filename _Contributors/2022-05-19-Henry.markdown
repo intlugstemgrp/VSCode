@@ -1,4 +1,4 @@
----
+2---
 layout: posts
 title: Henry Yip
 katex: False
@@ -17,7 +17,7 @@ Website Maintenance
 
 ## Introduction
 
-Hi I am Henry, a Mathematical Physics Year 1 student at the University of Edinburgh from Hong Kong. I am intrigued by Quantum Physics, Nuclear Physics, Cosmology, and physics in general. Academics aside, my hobbies include meteorology, chess, ducks, long-distance running, classical music, website building, wandering in Parks, and pretty much everything except dancing.
+Hi I am Henry, a Mathematical Physics Year 2 student at the University of Edinburgh from Hong Kong. I am intrigued by Quantum Physics, Nuclear Physics, Cosmology, and physics in general. Academics aside, my hobbies include meteorology, chess, ducks, long-distance running, classical music, website building, wandering in Parks, and pretty much everything except dancing.
 
 ## Photo
 
